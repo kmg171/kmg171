@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmg171&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
 **kmg171/kmg171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
