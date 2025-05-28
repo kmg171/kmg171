@@ -10,6 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmg171&layout=compact)
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 꾸준히 성장한 개발자 김민규 입니다. 열심히 해보겠습니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 파이썬과 자바를 좀더 깊게 배우고 싶습니다.</li></li><li> 이번에 배우게된 git및 github를 잘 활용할수 있도록 공부하겠습니다. </div> 
+    </div>
+
 <!--
 **kmg171/kmg171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
